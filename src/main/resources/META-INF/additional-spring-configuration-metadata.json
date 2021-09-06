@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "limit-time.vote",
+      "type": "java.lang.String",
+      "description": "Description for limit-time.vote."
+  }
+] }
